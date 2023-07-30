@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @stomdem
+- 👋 Hi, I’m @sammystoma
 - 👀 I’m interested in ..life.
 - 🌱 I’m currently learning programming.
-- 💞️ I’m looking to collaborate on Stata & R codes
+- 💞️ I’m looking to collaborate on Stata & R codes math assignmt
 - 📫 How to reach me Gmail (stomdem@gmail.com)
 
 <!---
